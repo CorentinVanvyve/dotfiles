@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = corentin.vanvyve@gmail.com
+	name = Corentin Vanvyve
